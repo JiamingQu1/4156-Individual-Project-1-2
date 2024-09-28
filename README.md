@@ -19,7 +19,7 @@ To clone the repository to your local machine, run the following command:
 
 ```bash
 git clone https://github.com/JiamingQu1/4156-Individual-Project-1-2.git
-cd 4156-Individual-Project
+cd 4156-Individual-Project-1-2
 ```
 
 ## Configure the project
@@ -36,11 +36,31 @@ mvn spring-boot:run
 
 ## Deployment to GCP
 
+using app engine
+
+```bash
+
 cd 4156-Individual-Project-1-2
 
 gcloud app deploy
 
 gcloud app browse
+
+```
+
+<img width="568" alt="Screenshot 2024-09-27 at 11 36 16 PM" src="https://github.com/user-attachments/assets/43c4a92c-27c8-43a0-9f5f-9f36276db909">
+
+
+or
+
+using compute engine
+
+<img width="1406" alt="Screenshot 2024-09-27 at 11 31 15 PM" src="https://github.com/user-attachments/assets/60f41d1b-302d-46b5-99f7-529c85102c9a">
+
+<img width="893" alt="Screenshot 2024-09-27 at 11 30 46 PM" src="https://github.com/user-attachments/assets/fd631001-dd74-47f0-a08b-b8080de25d25">
+
+<img width="1171" alt="Screenshot 2024-09-27 at 11 29 39 PM" src="https://github.com/user-attachments/assets/12f60960-abcf-4936-95aa-3aaed00f8a35">
+
 
 ## Important Files and Directories
 
