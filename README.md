@@ -1,29 +1,26 @@
-This is the student repo of I1 and I2 for Jeremy Qu.
+# 4156 Individual Project
 
-In I1, I finished:
+This repository contains the codebase for the 4156 Individual Project. The project is built with Java using Maven and deployed on Google Cloud Platform (GCP) using App Engine.
 
-  code clean up (mvn checkstyle:check returns 0 warns and 0 violations)
-  
-  test suite creation (reached 68% of brach converage and tested all the methods)
-  
-  bug fixing (using PMD and recorded bugs in bugs.txt)
-  
-  honesty.txt
-  
-  citations.txt
-  
-  2 pull requests(already merged)
+## Project Setup
 
+### Prerequisites
 
-In I2, I finished:
+Before setting up the project, ensure you have the following installed:
 
-  adding two endpoints to RouteController and corresponding tests
-  
-  making sure the code is clean and robust
+- Java 17 or higher
+- Maven 3.6.0 or higher
+- Google Cloud CLI (`gcloud`)
+- Git (for version control)
 
-  honesty-ip2.txt
-  
-  3 pull requests(already merged)
+### Cloning the Repository
+
+To clone the repository to your local machine, run the following command:
+
+```bash
+git clone 
+cd 4156-Individual-Project
+
   
 
 
